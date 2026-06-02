@@ -1,0 +1,4 @@
+pywikibot>=9.0.0
+wikitextparser>=0.55.0
+curl_cffi>=0.7.0
+pyyaml>=6.0

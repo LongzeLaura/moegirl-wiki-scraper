@@ -1,0 +1,107 @@
+# FSN Crawler — Include keywords
+# One keyword per line. A page matching any of these gets a relevance boost.
+# Blank lines and lines starting with # are ignored.
+
+# Works / Series
+Fate
+Fate/stay night
+Fate/Stay Night
+Fate/Zero
+Fate/hollow ataraxia
+Fate/EXTRA
+Fate/Grand Order
+Fate/Apocrypha
+Fate/strange Fake
+Fate/Prototype
+TYPE-MOON
+型月
+TYPE MOON
+圣杯战争
+Holy Grail War
+月姬
+魔法使之夜
+空之境界
+
+# Core characters — first named
+卫宫士郎
+卫宫
+士郎
+EMIYA
+Archer
+Saber
+远坂凛
+间桐樱
+伊莉雅
+伊莉雅斯菲尔
+Rider
+Lancer
+Berserker
+Caster
+Assassin
+吉尔伽美什
+Gilgamesh
+言峰绮礼
+藤村大河
+间桐慎二
+间桐脏砚
+间桐雁夜
+远坂时臣
+美缀绫子
+柳洞一成
+葛木宗一郎
+佐佐木小次郎
+库丘林
+美杜莎
+赫拉克勒斯
+海格力斯
+
+# FSN concepts
+从者
+Servant
+御主
+Master
+令咒
+Command Spell
+宝具
+Noble Phantasm
+职阶
+Class
+根源
+魔术
+魔术师
+魔术回路
+Magic Circuit
+圣杯
+Holy Grail
+大圣杯
+小圣杯
+无限剑制
+Unlimited Blade Works
+王之财宝
+Gate of Babylon
+天之锁
+天之杯
+Heaven's Feel
+理想乡
+Avalon
+誓约胜利之剑
+Excalibur
+
+# Locations / Factions
+冬木市
+冬木
+穗群原学园
+远坂家
+间桐家
+爱因兹贝伦
+魔术协会
+时钟塔
+柳洞寺
+卫宫邸
+
+# Category markers
+Fate系列
+TYPE-MOON作品
+型月作品
+Fate/stay night角色
+Fate系列角色

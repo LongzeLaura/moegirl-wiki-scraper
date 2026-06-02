@@ -1,0 +1,24 @@
+# Python virtual environment
+pywikibot/
+
+# Password file — NEVER commit credentials!
+user-password.py
+
+# Downloaded page data
+data/raw_wikitext/
+data/raw_json/
+data/raw/
+data/markdown/
+
+# Wiki output (generated from crawl data)
+wiki/
+
+# Pywikibot runtime artifacts
+apicache/
+throttle.ctrl
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db

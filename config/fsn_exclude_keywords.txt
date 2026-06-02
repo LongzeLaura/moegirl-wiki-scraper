@@ -1,0 +1,60 @@
+# FSN Crawler — Exclude keywords
+# One keyword per line. Any page whose title matches these is immediately excluded.
+# Blank lines and lines starting with # are ignored.
+
+# Wiki meta / help
+帮助
+Help
+模板
+Template
+文件
+File
+分类
+Category
+用户
+User
+讨论
+Talk
+萌娘百科
+特殊
+Special
+MediaWiki
+
+# Disambiguation / list pages
+消歧义
+disambiguation
+列表
+
+# Maintenance / policy
+版权
+Copyright
+隐私
+Privacy
+免责
+方针
+Policy
+指引
+Guideline
+沙盒
+Sandbox
+待删除
+删除
+存废
+快速删除
+侵权
+
+# Non-content namespaces
+User:
+User_talk:
+Template:
+Template_talk:
+File:
+File_talk:
+Category:
+Category_talk:
+Help:
+Help_talk:
+MediaWiki:
+Special:
+Talk:
+Project:

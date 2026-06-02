@@ -1,0 +1,23 @@
+# FSN Crawler — Seed pages
+# One page title per line. Blank lines and lines starting with # are ignored.
+# These are the starting points for the BFS crawl.
+
+Fate/stay night
+间桐樱
+远坂凛
+卫宫士郎
+Saber (Fate/stay night)
+伊莉雅斯菲尔·冯·爱因兹贝伦
+圣杯战争
+Archer (Fate/stay night)
+言峰绮礼
+远坂时臣
+间桐慎二
+藤村大河
+葛木宗一郎
+Caster (Fate/stay night)
+Lancer (Fate/stay night)
+Rider (Fate/stay night)
+Berserker (Fate/stay night)
+Assassin (Fate/stay night)
+吉尔伽美什
