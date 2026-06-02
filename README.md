@@ -1,0 +1,1 @@
+# moegirl-wiki-scraper
